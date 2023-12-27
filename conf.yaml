@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+batchdown:
+  - status: f
+    save_path: C:\Users\Administrator\Desktop\泓众云平台1.2.0\package\app-cloudkeeper-staging53.apk
+    url: http://192.168.12.165:8980/xhw_camera_android/cloud-keeper-android/-/jobs/16030/artifacts/raw/app/build/outputs/apk/cloudkeeper/staging/app-cloudkeeper-staging.apk
+  - status: f
+    save_path: C:\Users\Administrator\Desktop\泓众云平台1.2.0\package\CloudKeeper071802.ipa
+    url: http://192.168.12.165:8980/xhw_camera_ios/cloud-keeper-ios/-/jobs/16034/artifacts/raw/output/IPA_AdHoc/CloudKeeper.ipa
+  - status: t
+    save_path: C:\Users\Administrator\Desktop\app-xiaohongwu-staging476.apk
+    url: http://192.168.12.165:8980/xhw_camera_android/easy_panorama_android/-/jobs/17231/artifacts/raw/app/build/outputs/apk/xiaohongwu/staging/app-xiaohongwu-staging.apk
+  - status: t
+    save_path: C:\Users\Administrator\Desktop\APOLLO_ONE115.ipa
+    url: http://192.168.12.165:8980/xhw_camera_ios/xhw_vr_camera_ios/-/jobs/17234/artifacts/raw/output/IPA_AdHoc/APOLLO_ONE.ipa
+cookie: _gitlab_session=c0fb1e7fbc28c605dbd928642fdcbe2d
